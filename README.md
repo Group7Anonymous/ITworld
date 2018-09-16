@@ -247,7 +247,7 @@ Cyber Security – No more passwords or client numbers
 Increase in productivity – Easier and more streamline process for Bankers who complete credit applications, making there job easier.
 
 
-### A of the project 
+### Aim of the project 
 The aim is to develop a Sovereign ID system that unifies and streamlines the way documents and data are accessed within the Financial Services Industry
 
 Using Blockchain Technology, we can generate a unique ID authentication process for a users login,  by unifying one login system for all financial entities that contains all financial records relevant to banks and other financial companies.         
